@@ -1,0 +1,3 @@
+Variant,Test Acc,Params
+"Milestone-faithful (shallow, Flatten)",0.9562,4296391
+Deep CNN (BN + GAP + L2 + extended aug),0.8648,102823

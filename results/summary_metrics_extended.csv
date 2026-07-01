@@ -1,0 +1,5 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1
+Deep CNN,0.8648,0.8867,0.8648,0.8609
+Enhanced SVM (HOG+Color+Gabor),0.941,0.9426,0.941,0.9411
+SVM + HOG,0.8629,0.8649,0.8629,0.8628
+Logistic Regression (pixels),0.739,0.7441,0.739,0.7408

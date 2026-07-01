@@ -1,0 +1,26 @@
+{
+  "top_1_accuracy": 0.8647619047619047,
+  "top_2_accuracy": 0.9657142857142857,
+  "top_3_accuracy": 0.9961904761904762,
+  "macro_auc": 0.9911216931216931,
+  "mean_confidence_correct": 0.870046079158783,
+  "mean_confidence_incorrect": 0.5695099830627441,
+  "per_class_auc": {
+    "Anthracnose": 0.9992888888888889,
+    "Bacterial Canker": 0.9967407407407407,
+    "Cutting Weevil": 1.0,
+    "Die Back": 1.0,
+    "Gall Midge": 0.9960592592592592,
+    "Powdery Mildew": 0.9838814814814816,
+    "Sooty Mould": 0.9588148148148148
+  },
+  "per_class_avg_precision": {
+    "Anthracnose": 0.9965092217723795,
+    "Bacterial Canker": 0.9898047621731231,
+    "Cutting Weevil": 0.9999999999999999,
+    "Die Back": 0.9999999999999999,
+    "Gall Midge": 0.9819968554450678,
+    "Powdery Mildew": 0.9195483479971217,
+    "Sooty Mould": 0.8426626739600512
+  }
+}
